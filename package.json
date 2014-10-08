@@ -1,0 +1,22 @@
+{
+  "name": "timeout-tape",
+  "version": "0.0.0",
+  "description": "wrap tape's test object in a timeout for tests that may not terminate if a remote resource fails",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:robert-chiniquy/timeout-tape.git"
+  },
+  "author": "Robert Chiniquy",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/robert-chiniquy/timeout-tape/issues"
+  },
+  "homepage": "https://github.com/robert-chiniquy/timeout-tape",
+  "dependencies": {
+    "tape": "^3.0.0"
+  }
+}
