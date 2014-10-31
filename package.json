@@ -1,6 +1,6 @@
 {
   "name": "timeout-tape",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "wrap tape's test object in a timeout for tests that may not terminate if a remote resource fails",
   "main": "index.js",
   "scripts": {
